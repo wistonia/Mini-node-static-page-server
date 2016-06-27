@@ -1,7 +1,5 @@
-hello-smart-editors
-===================
-Demo app for GoGreenTeam
-
+Demo app for Node HTTP
+======================
 
 1. Pre-configuration
 --------------------
